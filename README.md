@@ -3,5 +3,10 @@
 
 
 # Application   Dev B s stooory
->>>>>>> devb
+
+
+# Application  developer A story
+
+
+
 
